@@ -1,0 +1,1 @@
+1:while deleting mojrem a database error occured, by commenting the lines (620,621) of admin controller it solved
