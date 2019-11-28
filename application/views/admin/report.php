@@ -21,9 +21,9 @@
           <div class="panel-heading">
           
     
-            <h4 class="panel-title"><a data-toggle="collapse" class="btn btn-primary" style="color:white;" data-parent="#accordion" href="#collapse1">گزارش عمومی</a></h4>
-            <h4 class="panel-title"><a data-toggle="collapse" class="btn btn-primary" style="color:white;" data-parent="#accordion" href="#collapse2">گزارش ماهوار</a></h4>
-            <h4 class="panel-title"> <a data-toggle="collapse" class="btn btn-primary" style="color:white;" data-parent="#accordion" href="#collapse3">گزارش سالانه</a></h4>
+            <h4 class="panel-title"><a data-toggle="collapse" class="btn btn-primary" style="color:white;" data-parent="#accordion" href="#">گزارش عمومی</a></h4>
+            <h4 class="panel-title"><a data-toggle="collapse" class="btn btn-primary" style="color:white;" data-parent="#accordion" href="#">گزارش ماهوار</a></h4>
+            <h4 class="panel-title"> <a data-toggle="collapse" class="btn btn-primary" style="color:white;" data-parent="#accordion" href="#">گزارش سالانه</a></h4>
             <div class="pull-left">
             <?php if(isset($persons)):?>
               <a  class="btn btn-primary" style="color:white; display:none" href="<?php echo base_url();?>admin/" >چاپ نتیجه</a>

@@ -297,3 +297,7 @@
 [action: login] [time:11:11:41pm , date:2019-11-24-Sunday] [user_id:18 , username: zamin] [fisrt_name:zamin , last_name:hussaini]
 [action: login] [time:02:11:22pm , date:2019-11-25-Monday] [user_id:18 , username: zamin] [fisrt_name:zamin , last_name:hussaini]
 [action: login] [time:02:04:24am , date:2011-04-13-Wednesday] [user_id:18 , username: zamin] [fisrt_name:zamin , last_name:hussaini]
+[action: login] [time:10:11:39am , date:2019-11-28-Thursday] [user_id:18 , username: zamin] [fisrt_name:zamin , last_name:hussaini]
+[action: logout] [time:11:11:02am , date:2019-11-28-Thursday] [user_id:18 , username: zamin] [fisrt_name:zamin , last_name:hussaini]
+[action: login] [time:11:11:23am , date:2019-11-28-Thursday] [user_id:18 , username: zamin] [fisrt_name:zamin , last_name:hussaini]
+[action: login] [time:10:11:26pm , date:2019-11-28-Thursday] [user_id:18 , username: zamin] [fisrt_name:zamin , last_name:hussaini]
